@@ -1,2 +1,2 @@
 # JAVA-Study
-JAVA 공부 Day 1 ~ 6 
+JAVA 공부 1 ~ 6 
